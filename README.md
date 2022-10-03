@@ -1,8 +1,3 @@
-# isitech
-Cours (ne pas oublier de le reporter sur GitHub) 
-
- 
-
 Lundi : 
 
 Qu’est-ce qu’un projet WEB ? 
@@ -76,3 +71,21 @@ Coût
 Qualité 
 
 Délai 
+
+Les étapes d’un projet WEB (voir les images du cours) 
+
+Les différents projets WEB : 
+
+Les sites statiques : les pages Web sont envoyées au client telles qu’elles sont stockées sur le serveur Web 
+
+Les sites dynamiques : les sites dont le Javascript est prépondérant, les applications Web 
+
+Les extranets 
+
+Les portails d’entreprise Salut clément 
+
+Les acteurs d’un projet : 
+
+Le Maitre d’ouvrage (MOA) 
+
+Comité de suivi  
