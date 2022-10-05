@@ -89,3 +89,42 @@ Les acteurs d’un projet :
 Le Maitre d’ouvrage (MOA) 
 
 Comité de suivi  
+
+
+
+Mercredi : 
+
+ 
+
+Les méthodologies gestion de projets :  
+ 
+Le chef de de projet va utiliser la méthode la plus adaptée à son projet et surtout 
+ 
+Modèle : Cycle en cascade  
+ 
+Analyse (du besoin client)  
+Planification  
+Réalisation  
+Vérification  
+Mise en production  
+Maintenance 
+
+ 
+
+Modèle : Cycle en V 
+
+ 
+
+Cette méthode dérive de la précédente dont son but est de pallier au manque de flexibilité de la méthode en cascade. 
+
+ 
+
+Les méthodes Agile 
+
+ 
+
+Le client est impliqué tout au long de la conception du produit final, le besoin initial peut changer pour s’adapter à tous les changements et difficultés rencontrées. 
+
+Au sein des méthodes traditionnelles on conçoit un livrable final dès le départ. 
+
+Pour les méthodes agiles, on se fixe un des objectifs successifs et à chaque objectif atteint on se fixe à l’aide du client un nouvel objectif. 
