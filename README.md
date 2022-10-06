@@ -9,4 +9,4 @@ Clément BARDIN - NINO HERRAN - ANTHONY SAPET
 <a href="https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/cahierdescharges.md">Pour voir notre cahier des charges</a> 
 
 Pour voir notre diagramme de Gants => <a href="https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/isitech.png">Ici</a>
-				   => <a href="https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/isitech2.png">Ou Ici</a>
+				   Ou <a href="https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/isitech2.png">Ici</a>
