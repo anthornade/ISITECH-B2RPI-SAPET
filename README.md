@@ -1,66 +1,67 @@
-Lundi : 
+<h1>Lundi :</h1>
 
-Qu’est-ce qu’un projet WEB ? 
+<h2>Qu’est-ce qu’un projet WEB ?</h2>
 
 Un projet WEB est un projet informatique dont les livrables ont pour destination le web (le réseau Internet). 
 
  
 
-Objectifs d’un projet WEB : 
+<h2>Objectifs d’un projet WEB :</h2> 
 
 Visibilité du site  
 
  
 
-Calcul des coûts : Salaire des développeurs, coût des logiciels, etc... 
+<h2>Calcul des coûts</h2> : Salaire des développeurs, coût des logiciels, etc... 
 
 ROI : gain de l’investissement / coût de l’investissement 
 
  
 
-Termes utiles en gestion de projet : 
+<h2>Termes utiles en gestion de projet : </h2>
 
-Définition d’un projet WEB 
+<h2>Définition d’un projet WEB </h2>
 
-Les enjeux d’un projet WEB 
+<h2>Les enjeux d’un projet WEB </h2>
 
-Les moyens d’un projet WEB : 
+<h2>Les moyens d’un projet WEB : </h2>
 
-   -  Financier : 
+   <ul>Financier : 
 
-	- Avant-projet : Frais de licence, de matériel info, … 
+	<li> Avant-projet : Frais de licence, de matériel info, … </li>
 
-	- Projet : Salaires, sous-traitant 
+	<li>  Projet : Salaires, sous-traitant </li>
 
-	- Post-projet 
+	<li> Post-projet </li>
 
-       -       Techniques : outils informatiques (logiciel, poste, serveur...) 
+        <ul><li> Techniques : outils informatiques (logiciel, poste, serveur...) </li>
 
-       -        Humain 
+        <li> Humain </li></ul>
 
-       - Les contraintes d’un projet WEB : 
+        <li> Les contraintes d’un projet WEB : </li>
 
-	- Comptabilité 
+	<li>  Comptabilité </li>
 
-	- Responsive 
+	<li>  Responsive </li>
 
-	- Temps 
+	<li>  Temps </li>
 
-	- Accessibilité 
+	<li>  Accessibilité </li>
 
-	- Durée de téléchargement 
+	<li>  Durée de téléchargement </li>
 
-	- Obligation réglementaires : 
+	<li>  Obligation réglementaires : </li>
 
-		- CNIL 
+	<ul><li>  CNIL </li>
 
-		- RGPD 
+	<li>  RGPD </li>
 
-		- LCEN 
+	<li>  LCEN </li>
 
-		- Propriété intellectuelle (droit à l’image) 
+	<li>  Propriété intellectuelle (droit à l’image) </li></ul>
 
-	- Analyse de l’existant 
+	<li>  Analyse de l’existant 
+</ul>
 
 L’arbitrage d’un projet WEB / comité de pilotage 
 
@@ -92,15 +93,15 @@ Comité de suivi
 
 
 
-Mercredi : 
+<h1>Mercredi : </h1>
 
  
 
-Les méthodologies gestion de projets :  
+<h2>Les méthodologies gestion de projets : </h2> 
  
 Le chef de de projet va utiliser la méthode la plus adaptée à son projet et surtout 
  
-Modèle : Cycle en cascade  
+<h3>Modèle : Cycle en cascade</h3>  
  
 Analyse (du besoin client)  
 Planification  
@@ -111,7 +112,7 @@ Maintenance
 
  
 
-Modèle : Cycle en V 
+<h3>Modèle : Cycle en V </h3>  
 
  
 
@@ -119,7 +120,7 @@ Cette méthode dérive de la précédente dont son but est de pallier au manque 
 
  
 
-Les méthodes Agile 
+<h3>Les méthodes Agile </h3>  
 
  
 
