@@ -25,45 +25,77 @@ ROI : gain de l’investissement / coût de l’investissement
 <h2>Les enjeux d’un projet WEB </h2>
 
 <h2>Les moyens d’un projet WEB : </h2>
+Termes utiles en gestion de projet : 
 
-   <ul>Financier : 
+Définition d’un projet WEB 
 
-	<li> Avant-projet : Frais de licence, de matériel info, … </li>
+Les enjeux d’un projet WEB 
 
-	<li>  Projet : Salaires, sous-traitant </li>
+Les moyens d’un projet WEB : 
 
-	<li> Post-projet </li>
+   -  Financier : 
 
-        <ul><li> Techniques : outils informatiques (logiciel, poste, serveur...) </li>
+	- Avant-projet : Frais de licence, de matériel info, … 
 
-        <li> Humain </li></ul>
+	- Projet : Salaires, sous-traitant 
 
-        <li> Les contraintes d’un projet WEB : </li>
+	- Post-projet 
 
-	<li>  Comptabilité </li>
+       -       Techniques : outils informatiques (logiciel, poste, serveur...) 
 
-	<li>  Responsive </li>
+       -        Humain 
 
-	<li>  Temps </li>
+       - Les contraintes d’un projet WEB : 
 
-	<li>  Accessibilité </li>
+	- Comptabilité 
 
-	<li>  Durée de téléchargement </li>
+	- Responsive 
 
-	<li>  Obligation réglementaires : </li>
+	- Temps 
 
-	<ul><li>  CNIL </li>
+	- Accessibilité 
 
-	<li>  RGPD </li>
+	- Durée de téléchargement 
 
-	<li>  LCEN </li>
+	- Obligation réglementaires : 
 
-	<li>  Propriété intellectuelle (droit à l’image) </li></ul>
+		- CNIL 
 
-	<li>  Analyse de l’existant 
-</ul>
+		- RGPD 
+
+		- LCEN 
+
+		- Propriété intellectuelle (droit à l’image) 
+
+	- Analyse de l’existant 
 
 L’arbitrage d’un projet WEB / comité de pilotage 
+
+Contrôle : 
+
+Coût 
+
+Qualité 
+
+Délai 
+
+Les étapes d’un projet WEB (voir les images du cours) 
+
+Les différents projets WEB : 
+
+Les sites statiques : les pages Web sont envoyées au client telles qu’elles sont stockées sur le serveur Web 
+
+Les sites dynamiques : les sites dont le Javascript est prépondérant, les applications Web 
+
+Les extranets 
+
+Les portails d’entreprise 
+
+Les acteurs d’un projet : 
+
+Le Maitre d’ouvrage (MOA) 
+
+Comité de suivi  
 
 Contrôle : 
 
