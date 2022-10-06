@@ -6,7 +6,7 @@ Clément BARDIN - NINO HERRAN - ANTHONY SAPET
 
 <a href="https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/PriseDeNote.md">Pour voir notre prise de note</a>
 
-Pour voir notre cahier des charges => https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/cahierdescharges.md
+<a href="https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/cahierdescharges.md">Pour voir notre cahier des charges</a> 
 
-Pour voir notre diagramme de Gants => https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/isitech.png
-				   => https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/isitech2.png
+Pour voir notre diagramme de Gants => <a href="https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/isitech.png">Ici</a>
+				   => <a href="https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/isitech2.png">Ou Ici</a>
