@@ -4,7 +4,7 @@
 
 Clément BARDIN - NINO HERRAN - ANTHONY SAPET
 
-Pour voir notre prise de note => https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/PriseDeNote.md
+<a href="https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/PriseDeNote.md">Pour voir notre prise de note</a>
 
 Pour voir notre cahier des charges => https://github.com/anthornade/ISITECH-B2RPI-SAPET-HERRAN-BARDIN/blob/main/cahierdescharges.md
 
